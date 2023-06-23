@@ -9,7 +9,7 @@ const options = {
       units: 'km'
     },
     headers: {
-      'X-RapidAPI-Key': '3ec57520damshaddcdfeb3ff5d52p1bfb07jsn0ddc58751363',
+      'X-RapidAPI-Key': 'key',
       'X-RapidAPI-Host': 'travel-advisor.p.rapidapi.com'
     }
   };
